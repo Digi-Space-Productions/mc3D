@@ -3,3 +3,5 @@
 *.sav
 *.elf
 *.*~
+*.obj
+*.temp
